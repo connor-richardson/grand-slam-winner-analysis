@@ -1,9 +1,5 @@
-All code is in 'visualizations.ipynb'
-Requirements:
-Jupyter
-Python
-Matplotlib
-NetworkX
-Altair
-Pandas
-Pickle
+## Grand Slam Performance Analysis
+- Tableau dashboard with year and surface filters  
+- Network graph of head-to-head finals 
+- Python preprocessing (pandas)  
+- Visualizations made in Matplotlib & Vega-Altair
