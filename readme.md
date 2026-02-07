@@ -4,4 +4,4 @@
 - Python preprocessing (pandas)  
 - Visualizations made in Matplotlib & Vega-Altair
 
-![Dashboard Overview](images/tableaudb1.png)
+![Dashboard Overview](images/tableaudb1.jpg)
